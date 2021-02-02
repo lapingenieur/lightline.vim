@@ -81,7 +81,7 @@ let s:guicolor = {
       \
       \ 'darkestpurple'  : '#5f00af',
       \ 'mediumpurple'   : '#875fdf',
-      \ 'brightpurple'   : '#dfdfff',
+      \ 'brighturple'    : '#870040',
       \
       \ 'brightorange'   : '#ff8700',
       \ 'brightestorange': '#ffaf00',
